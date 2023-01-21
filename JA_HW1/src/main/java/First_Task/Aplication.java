@@ -2,7 +2,7 @@ package First_Task;
 
 import java.util.*;
 
-public class Main {
+public class Aplication {
 
 	public static void main(String[] args) {
 		
